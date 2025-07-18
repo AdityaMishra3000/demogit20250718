@@ -1,0 +1,7 @@
+Hello to Everyone learning the git commands !!
+git init
+git clone "repo url"
+git push origin branch_name
+git status
+git add, git commit
+git config --global user.name//user.email
